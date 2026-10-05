@@ -1,0 +1,6 @@
+{
+  "name": "LINE返信アシスタント - かわいいAI返信作成ツール",
+  "description": "相手との関係（上司・部下・友人・両親・恋人）に合わせて、丁寧・自然・カジュアルの3パターンのLINE返信文をAIが自動生成するWebアプリ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
